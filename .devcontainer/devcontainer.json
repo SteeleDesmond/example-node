@@ -1,0 +1,7 @@
+{
+  "name": "Example node http application",
+  "workspaceFolder": "/workspace",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  }
+}
